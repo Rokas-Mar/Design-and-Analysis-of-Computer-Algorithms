@@ -1,0 +1,82 @@
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\IP_1.exe
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\IP_1.deps.json
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\IP_1.runtimeconfig.json
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\IP_1.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\IP_1.pdb
+C:\Users\linas\Desktop\ASA\IP\IP_1\obj\Debug\net7.0\IP_1.csproj.AssemblyReference.cache
+C:\Users\linas\Desktop\ASA\IP\IP_1\obj\Debug\net7.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\obj\Debug\net7.0\IP_1.csproj.ResolveComReference.cache
+C:\Users\linas\Desktop\ASA\IP\IP_1\obj\Debug\net7.0\IP_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linas\Desktop\ASA\IP\IP_1\obj\Debug\net7.0\IP_1.AssemblyInfoInputs.cache
+C:\Users\linas\Desktop\ASA\IP\IP_1\obj\Debug\net7.0\IP_1.AssemblyInfo.cs
+C:\Users\linas\Desktop\ASA\IP\IP_1\obj\Debug\net7.0\IP_1.csproj.CoreCompileInputs.cache
+C:\Users\linas\Desktop\ASA\IP\IP_1\obj\Debug\net7.0\IP_1.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\obj\Debug\net7.0\refint\IP_1.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\obj\Debug\net7.0\IP_1.pdb
+C:\Users\linas\Desktop\ASA\IP\IP_1\obj\Debug\net7.0\IP_1.genruntimeconfig.cache
+C:\Users\linas\Desktop\ASA\IP\IP_1\obj\Debug\net7.0\ref\IP_1.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\EPPlus.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\EPPlus.Interfaces.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\obj\Debug\net7.0\IP_1.csproj.CopyComplete
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\SkiaSharp.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\linas\Desktop\ASA\IP\IP_1\bin\Debug\net7.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\IP_1.exe
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\IP_1.deps.json
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\IP_1.runtimeconfig.json
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\IP_1.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\IP_1.pdb
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\EPPlus.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\EPPlus.Interfaces.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\SkiaSharp.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\obj\Debug\net7.0\IP_1.csproj.AssemblyReference.cache
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\obj\Debug\net7.0\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\obj\Debug\net7.0\IP_1.csproj.ResolveComReference.cache
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\obj\Debug\net7.0\IP_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\obj\Debug\net7.0\IP_1.AssemblyInfoInputs.cache
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\obj\Debug\net7.0\IP_1.AssemblyInfo.cs
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\obj\Debug\net7.0\IP_1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\obj\Debug\net7.0\IP_1.csproj.Up2Date
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\obj\Debug\net7.0\IP_1.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\obj\Debug\net7.0\refint\IP_1.dll
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\obj\Debug\net7.0\IP_1.pdb
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\obj\Debug\net7.0\IP_1.genruntimeconfig.cache
+C:\Users\Lenovo Ideapad 5\Desktop\ASA IP\IP_1\obj\Debug\net7.0\ref\IP_1.dll

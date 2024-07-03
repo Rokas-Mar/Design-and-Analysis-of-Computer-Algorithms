@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo Ideapad 5\\Desktop\\ASA IP\\IP_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D8B463-BBF6-49A1-A674-A510287C5372}|IP_3.csproj|c:\\users\\lenovo ideapad 5\\desktop\\asa ip\\ip_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D8B463-BBF6-49A1-A674-A510287C5372}|IP_3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D8B463-BBF6-49A1-A674-A510287C5372}|IP_3.csproj|c:\\users\\lenovo ideapad 5\\desktop\\asa ip\\ip_3\\inout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D8B463-BBF6-49A1-A674-A510287C5372}|IP_3.csproj|solutionrelative:inout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D8B463-BBF6-49A1-A674-A510287C5372}|IP_3.csproj|c:\\users\\lenovo ideapad 5\\desktop\\asa ip\\ip_3\\testroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D8B463-BBF6-49A1-A674-A510287C5372}|IP_3.csproj|solutionrelative:testroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D8B463-BBF6-49A1-A674-A510287C5372}|IP_3.csproj|c:\\users\\lenovo ideapad 5\\desktop\\asa ip\\ip_3\\route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D8B463-BBF6-49A1-A674-A510287C5372}|IP_3.csproj|solutionrelative:route.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8D8B463-BBF6-49A1-A674-A510287C5372}|IP_3.csproj|c:\\users\\lenovo ideapad 5\\desktop\\asa ip\\ip_3\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8D8B463-BBF6-49A1-A674-A510287C5372}|IP_3.csproj|solutionrelative:city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ideapad 5\\Desktop\\ASA IP\\IP_3\\City.cs",
+              "RelativeDocumentMoniker": "City.cs",
+              "ToolTip": "C:\\Users\\Lenovo Ideapad 5\\Desktop\\ASA IP\\IP_3\\City.cs",
+              "RelativeToolTip": "City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T00:53:05.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Route.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ideapad 5\\Desktop\\ASA IP\\IP_3\\Route.cs",
+              "RelativeDocumentMoniker": "Route.cs",
+              "ToolTip": "C:\\Users\\Lenovo Ideapad 5\\Desktop\\ASA IP\\IP_3\\Route.cs",
+              "RelativeToolTip": "Route.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T00:43:21.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InOut.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ideapad 5\\Desktop\\ASA IP\\IP_3\\InOut.cs",
+              "RelativeDocumentMoniker": "InOut.cs",
+              "ToolTip": "C:\\Users\\Lenovo Ideapad 5\\Desktop\\ASA IP\\IP_3\\InOut.cs",
+              "RelativeToolTip": "InOut.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwFkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:31:43.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestRoute.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ideapad 5\\Desktop\\ASA IP\\IP_3\\TestRoute.cs",
+              "RelativeDocumentMoniker": "TestRoute.cs",
+              "ToolTip": "C:\\Users\\Lenovo Ideapad 5\\Desktop\\ASA IP\\IP_3\\TestRoute.cs",
+              "RelativeToolTip": "TestRoute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:31:37.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo Ideapad 5\\Desktop\\ASA IP\\IP_3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo Ideapad 5\\Desktop\\ASA IP\\IP_3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwDwBAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:31:37.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KTU\\Algorai\\LD3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E9F4F38-A0D6-4CDB-A261-13075C0C07D7}|LD3\\LD3.1.1.csproj|d:\\ktu\\algorai\\ld3\\ld3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E9F4F38-A0D6-4CDB-A261-13075C0C07D7}|LD3\\LD3.1.1.csproj|solutionrelative:ld3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CFDC9BC-9A5D-4F44-9A48-7FB02D71CBB6}|LD3.2.2\\LD3.2.2.csproj|D:\\KTU\\Algorai\\LD3\\LD3.2.2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CFDC9BC-9A5D-4F44-9A48-7FB02D71CBB6}|LD3.2.2\\LD3.2.2.csproj|solutionrelative:LD3.2.2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81C7110-23EA-4B3D-BAFC-2268CDDAE745}|LD3.2.1\\LD3.2.1.csproj|D:\\KTU\\Algorai\\LD3\\LD3.2.1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81C7110-23EA-4B3D-BAFC-2268CDDAE745}|LD3.2.1\\LD3.2.1.csproj|solutionrelative:LD3.2.1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F35AF254-4BF4-4303-B3A6-66CB022158C8}|LD3.1.2\\LD3.1.2.csproj|D:\\KTU\\Algorai\\LD3\\LD3.1.2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F35AF254-4BF4-4303-B3A6-66CB022158C8}|LD3.1.2\\LD3.1.2.csproj|solutionrelative:LD3.1.2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 247,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KTU\\Algorai\\LD3\\LD3.2.2\\Program.cs",
+              "RelativeDocumentMoniker": "LD3.2.2\\Program.cs",
+              "ToolTip": "D:\\KTU\\Algorai\\LD3\\LD3.2.2\\Program.cs",
+              "RelativeToolTip": "LD3.2.2\\Program.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwE0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:05:57.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KTU\\Algorai\\LD3\\LD3.2.1\\Program.cs",
+              "RelativeDocumentMoniker": "LD3.2.1\\Program.cs",
+              "ToolTip": "D:\\KTU\\Algorai\\LD3\\LD3.2.1\\Program.cs",
+              "RelativeToolTip": "LD3.2.1\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:18:55.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KTU\\Algorai\\LD3\\LD3.1.2\\Program.cs",
+              "RelativeDocumentMoniker": "LD3.1.2\\Program.cs",
+              "ToolTip": "D:\\KTU\\Algorai\\LD3\\LD3.1.2\\Program.cs",
+              "RelativeToolTip": "LD3.1.2\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:16:48.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\KTU\\Algorai\\LD3\\LD3\\Program.cs",
+              "RelativeDocumentMoniker": "LD3\\Program.cs",
+              "ToolTip": "D:\\KTU\\Algorai\\LD3\\LD3\\Program.cs",
+              "RelativeToolTip": "LD3\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T16:16:39.556Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\KTU\Algorai\LD3\LD3\bin\Debug\LD3.exe.config
+D:\KTU\Algorai\LD3\LD3\bin\Debug\LD3.exe
+D:\KTU\Algorai\LD3\LD3\bin\Debug\LD3.pdb
+D:\KTU\Algorai\LD3\LD3\obj\Debug\LD3.1.1.csproj.AssemblyReference.cache
+D:\KTU\Algorai\LD3\LD3\obj\Debug\LD3.1.1.csproj.CoreCompileInputs.cache
+D:\KTU\Algorai\LD3\LD3\obj\Debug\LD3.exe
+D:\KTU\Algorai\LD3\LD3\obj\Debug\LD3.pdb
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\Debug\LD3.exe.config
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\Debug\LD3.exe
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\Debug\LD3.pdb
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\obj\Debug\LD3.1.1.csproj.AssemblyReference.cache
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\obj\Debug\LD3.1.1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\obj\Debug\LD3.exe
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\obj\Debug\LD3.pdb

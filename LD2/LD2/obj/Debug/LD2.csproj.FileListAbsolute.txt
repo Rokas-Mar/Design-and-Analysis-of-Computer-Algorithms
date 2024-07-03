@@ -1,0 +1,7 @@
+D:\KTU\Algorai\LD2\LD2\bin\Debug\LD2.exe.config
+D:\KTU\Algorai\LD2\LD2\bin\Debug\LD2.exe
+D:\KTU\Algorai\LD2\LD2\bin\Debug\LD2.pdb
+D:\KTU\Algorai\LD2\LD2\obj\Debug\LD2.csproj.AssemblyReference.cache
+D:\KTU\Algorai\LD2\LD2\obj\Debug\LD2.csproj.CoreCompileInputs.cache
+D:\KTU\Algorai\LD2\LD2\obj\Debug\LD2.exe
+D:\KTU\Algorai\LD2\LD2\obj\Debug\LD2.pdb

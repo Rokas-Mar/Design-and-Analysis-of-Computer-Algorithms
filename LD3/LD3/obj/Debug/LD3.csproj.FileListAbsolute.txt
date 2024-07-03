@@ -1,0 +1,177 @@
+C:\Users\rokas\source\repos\LD3\LD3\bin\LD3.dll.config
+C:\Users\rokas\source\repos\LD3\LD3\bin\LD3.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\LD3.pdb
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\csc.exe
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\csc.exe.config
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\csc.rsp
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\csi.exe
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\csi.exe.config
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\csi.rsp
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.AppContext.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.Console.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.IO.Compression.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.Net.Http.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.ValueTuple.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\vbc.exe
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\vbc.exe.config
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\vbc.rsp
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\VBCSCompiler.exe
+C:\Users\rokas\source\repos\LD3\LD3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rokas\source\repos\LD3\LD3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rokas\source\repos\LD3\LD3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rokas\source\repos\LD3\LD3\obj\Debug\LD3.csproj.AssemblyReference.cache
+C:\Users\rokas\source\repos\LD3\LD3\obj\Debug\LD3.csproj.CoreCompileInputs.cache
+C:\Users\rokas\source\repos\LD3\LD3\obj\Debug\LD3.csproj.CopyComplete
+C:\Users\rokas\source\repos\LD3\LD3\obj\Debug\LD3.dll
+C:\Users\rokas\source\repos\LD3\LD3\obj\Debug\LD3.pdb
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\LD3.dll.config
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\LD3.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\LD3.pdb
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\csc.exe
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\csc.exe.config
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\csc.rsp
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\csi.exe
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\csi.exe.config
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\csi.rsp
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.AppContext.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.Collections.Immutable.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.Console.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.Globalization.Calendars.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.IO.Compression.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.IO.FileSystem.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.Net.Http.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.Net.Sockets.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.Reflection.Metadata.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.ValueTuple.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.Xml.XPath.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\vbc.exe
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\vbc.exe.config
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\vbc.rsp
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\VBCSCompiler.exe
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\roslyn\VBCSCompiler.exe.config
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\KTU\KTU OP\OP2\LD3\LD3\obj\Debug\LD3.csproj.AssemblyReference.cache
+D:\KTU\KTU OP\OP2\LD3\LD3\obj\Debug\LD3.csproj.CoreCompileInputs.cache
+D:\KTU\KTU OP\OP2\LD3\LD3\obj\Debug\LD3.csproj.CopyComplete
+D:\KTU\KTU OP\OP2\LD3\LD3\obj\Debug\LD3.dll
+D:\KTU\KTU OP\OP2\LD3\LD3\obj\Debug\LD3.pdb
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\LD3.dll.config
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\LD3.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\LD3.pdb
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\csc.exe
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\csc.exe.config
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\csc.rsp
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\csi.exe
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\csi.exe.config
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\csi.rsp
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.AppContext.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.Console.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.IO.Compression.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.Net.Http.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.ValueTuple.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\vbc.exe
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\vbc.exe.config
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\vbc.rsp
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\obj\Debug\LD3.csproj.AssemblyReference.cache
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\obj\Debug\LD3.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\obj\Debug\LD3.csproj.Up2Date
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\obj\Debug\LD3.dll
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3\obj\Debug\LD3.pdb

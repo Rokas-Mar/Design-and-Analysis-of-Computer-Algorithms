@@ -1,0 +1,15 @@
+C:\Users\rokas\Desktop\BMP_example\bin\Debug\net5.0\BMP_example.exe
+C:\Users\rokas\Desktop\BMP_example\bin\Debug\net5.0\BMP_example.deps.json
+C:\Users\rokas\Desktop\BMP_example\bin\Debug\net5.0\BMP_example.runtimeconfig.json
+C:\Users\rokas\Desktop\BMP_example\bin\Debug\net5.0\BMP_example.runtimeconfig.dev.json
+C:\Users\rokas\Desktop\BMP_example\bin\Debug\net5.0\BMP_example.dll
+C:\Users\rokas\Desktop\BMP_example\bin\Debug\net5.0\BMP_example.pdb
+C:\Users\rokas\Desktop\BMP_example\obj\Debug\net5.0\BMP_example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rokas\Desktop\BMP_example\obj\Debug\net5.0\BMP_example.AssemblyInfoInputs.cache
+C:\Users\rokas\Desktop\BMP_example\obj\Debug\net5.0\BMP_example.AssemblyInfo.cs
+C:\Users\rokas\Desktop\BMP_example\obj\Debug\net5.0\BMP_example.csproj.CoreCompileInputs.cache
+C:\Users\rokas\Desktop\BMP_example\obj\Debug\net5.0\BMP_example.dll
+C:\Users\rokas\Desktop\BMP_example\obj\Debug\net5.0\refint\BMP_example.dll
+C:\Users\rokas\Desktop\BMP_example\obj\Debug\net5.0\BMP_example.pdb
+C:\Users\rokas\Desktop\BMP_example\obj\Debug\net5.0\BMP_example.genruntimeconfig.cache
+C:\Users\rokas\Desktop\BMP_example\obj\Debug\net5.0\ref\BMP_example.dll

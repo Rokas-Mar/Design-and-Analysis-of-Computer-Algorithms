@@ -1,0 +1,21 @@
+D:\KTU\Algorai\LD3\LD3.2.1\bin\Debug\LD3.2.1.exe.config
+D:\KTU\Algorai\LD3\LD3.2.1\bin\Debug\LD3.2.1.exe
+D:\KTU\Algorai\LD3\LD3.2.1\bin\Debug\LD3.2.1.pdb
+D:\KTU\Algorai\LD3\LD3.2.1\obj\Debug\LD3.2.1.csproj.AssemblyReference.cache
+D:\KTU\Algorai\LD3\LD3.2.1\obj\Debug\LD3.2.1.csproj.CoreCompileInputs.cache
+D:\KTU\Algorai\LD3\LD3.2.1\obj\Debug\LD3.2.1.exe
+D:\KTU\Algorai\LD3\LD3.2.1\obj\Debug\LD3.2.1.pdb
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3.2.1\bin\Debug\LD3.2.1.exe.config
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3.2.1\bin\Debug\LD3.2.1.exe
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3.2.1\bin\Debug\LD3.2.1.pdb
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3.2.1\obj\Debug\LD3.2.1.csproj.AssemblyReference.cache
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3.2.1\obj\Debug\LD3.2.1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3.2.1\obj\Debug\LD3.2.1.exe
+C:\Users\Lenovo Ideapad 5\Desktop\LD3\LD3.2.1\obj\Debug\LD3.2.1.pdb
+C:\Users\rokas\Desktop\LD3\LD3.2.1\bin\Debug\LD3.2.1.exe.config
+C:\Users\rokas\Desktop\LD3\LD3.2.1\bin\Debug\LD3.2.1.exe
+C:\Users\rokas\Desktop\LD3\LD3.2.1\bin\Debug\LD3.2.1.pdb
+C:\Users\rokas\Desktop\LD3\LD3.2.1\obj\Debug\LD3.2.1.csproj.AssemblyReference.cache
+C:\Users\rokas\Desktop\LD3\LD3.2.1\obj\Debug\LD3.2.1.csproj.CoreCompileInputs.cache
+C:\Users\rokas\Desktop\LD3\LD3.2.1\obj\Debug\LD3.2.1.exe
+C:\Users\rokas\Desktop\LD3\LD3.2.1\obj\Debug\LD3.2.1.pdb
